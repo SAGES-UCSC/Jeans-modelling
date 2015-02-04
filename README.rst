@@ -1,5 +1,9 @@
-A python script to perform MCMC dynamical modelling of galaxies using the spherical Jeans equations with constant orbital anisotropy. 
-The method and the equations are given in `Mamon & Lokas (2005) <http://adsabs.harvard.edu/abs/2005MNRAS.363..705M>`_.
+Jeans-modelling
+=====
+
+**A python script to perform MCMC dynamical modelling of galaxies using the spherical Jeans equations with constant orbital anisotropy**. 
+
+The method is described in `Mamon & Lokas (2005) <http://adsabs.harvard.edu/abs/2005MNRAS.363..705M>`_.
 
 In order to use this script you need :
 
